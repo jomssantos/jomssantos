@@ -8,6 +8,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaossantos)
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
 ### 💻 **Minhas Habilidades**  
 Linguagens com as quais tenho experiências:
 
@@ -16,6 +20,9 @@ Linguagens com as quais tenho experiências:
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
 </div>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 ### 📊 
 <picture style="background-color: transparent; display: flex; justify-content: center;">
