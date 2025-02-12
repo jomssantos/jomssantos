@@ -6,7 +6,7 @@
 - 🌱 Estudando Python
 - 📫 Contate-me no email: joaomx616@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaossantos)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomssantos)
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
