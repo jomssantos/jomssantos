@@ -1,45 +1,71 @@
-## Olá, me chamo João
+<h1 align="center">Olá, eu sou o João 👋</h1>
+<h3 align="center">Desenvolvedor Full Stack Freelancer</h3>
 
 <p align="center">
-  
-- 🔭 Hoje sou programador freelancer
-- 🌱 Estudando Python
-- 📫 Contate-me no email: joaomx616@gmail.com
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomssantos)
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  Crio sites, landing pages e sistemas web do front ao back,<br>
+  com foco em performance, SEO e conversão.
 </p>
 
-### 💻 **Minhas Habilidades**  
-Linguagens com as quais tenho experiência:
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
-</div>
-
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <a href="https://SEU_DOMINIO"><img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://instagram.com/devjoaomsantos"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://wa.me/55SEUNUMERO"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:SEU_NOVO_EMAIL"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-### 📊 
-<picture style="background-color: transparent; display: flex; justify-content: center;">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
-    style="background-color: transparent"
-  />
-</picture>
+---
+
+## 🚀 O que eu faço
+
+| | |
+|---|---|
+| 🎨 **Front-end** | Sites e landing pages responsivos, rápidos e otimizados para conversão |
+| ⚙️ **Back-end** | APIs, automações, bots e integrações com serviços externos |
+| 🛒 **WordPress** | Sites institucionais e páginas com Elementor, prontos para gerenciar |
+| 📈 **Marketing** | Tráfego pago (Meta Ads e Google Ads) para dar retorno ao site |
+
+---
+
+## 🛠️ Tecnologias
+
+**Front-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,wordpress&theme=dark" />
+</p>
+
+**Back-end e dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,firebase&theme=dark" />
+</p>
+
+**Ferramentas e deploy**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" />
+</p>
+
+---
+
+## 📂 Projetos em destaque
+
+- 🤖 **[Bot-Whatsapp-Baileys](https://github.com/jomssantos/Bot-Whatsapp-Baileys)**: automação do WhatsApp Web sem navegador (Node.js)
+- 🛍️ **[Info-Products-Shopee](https://github.com/jomssantos/Info-Products-Shopee)**: extração de dados de produtos via API de afiliados (Python)
+- 💬 **[Chat-Design-Generator](https://github.com/jomssantos/Chat-Design-Generator)**: gerador de chat editável com design estilo Instagram (Python)
+- 👁️ **[Yolo-Model-Trainer](https://github.com/jomssantos/Yolo-Model-Trainer)**: treinador de modelos YOLO para visão computacional (Python)
+
+---
+
+## 📊 GitHub
+
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jomssantos&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomssantos&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  💼 <b>Precisa de um site ou sistema? <a href="https://wa.me/55SEUNUMERO">Vamos conversar.</a></b>
 </p>
