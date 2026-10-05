@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wsrv.nl/?url=[github.com/jomssantos.png](https://wsrv.nl/?url=github.com/jomssantos.png)&w=160&h=160&mask=circle" width="140" alt="João M. S. Santos" />
+  <img src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/198402695?v=4&w=160&h=160&mask=circle" width="140" alt="João M. S. Santos" />
 </p>
 
 <h1 align="center">Olá, eu sou o João 👋</h1>
